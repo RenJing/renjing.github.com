@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[晒太阳的地方]]></title>
+  <link href="http://renjing.github.com/atom.xml" rel="self"/>
+  <link href="http://renjing.github.com/"/>
+  <updated>2012-10-23T21:09:00+08:00</updated>
+  <id>http://renjing.github.com/</id>
+  <author>
+    <name><![CDATA[Ren Jing]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
